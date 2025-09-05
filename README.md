@@ -1,6 +1,6 @@
 # IT-145
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/22eeabc7-0075-4f8d-8bdd-5279a06ebd93" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/22eeabc7-0075-4f8d-8bdd-5279a06ebd93" />
 
 
 # Grazioso Salvare Animal Tracking Application
